@@ -1,7 +1,10 @@
 # vybe
 
-A new Flutter project.
-
+A meta's thread clone app. 
+Functionalities: 
+  1. User can create the their account, login.
+  2. User can upload their profile image, personal details and save it in the supabase database.
+  3. User can comment, like, unlike the post, real time notification and  many more functionalities are available. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
